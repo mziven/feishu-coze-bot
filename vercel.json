@@ -1,8 +1,6 @@
 {
-  "version": 2,
-  "functions": {
-    "api/webhook.js": {
-      "runtime": "nodejs20.x"
-    }
-  }
+  "name": "feishu-coze-bot",
+  "private": true,
+  "version": "1.0.0",
+  "type": "commonjs"
 }
