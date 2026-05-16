@@ -1,0 +1,12 @@
+{
+  "name": "feishu-coze-bot",
+  "private": true,
+  "main": "api/webhook.js",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
