@@ -1,11 +1,10 @@
 {
   "name": "feishu-coze-bot",
   "private": true,
+  "version": "1.0.0",
   "type": "commonjs",
   "dependencies": {
+    "@vercel/node": "^3.2.27",
     "express": "^4.19.2"
-  },
-  "engines": {
-    "node": "20.x"
   }
 }
